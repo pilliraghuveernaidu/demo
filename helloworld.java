@@ -10,3 +10,7 @@ public class HelloWorld extends HttpServlet {
         response.getWriter().println("<h1>Hello, World from Java!</h1>");
     }
 }
+added one line git add .
+addded second line 
+added third line 
+added fourth line 
