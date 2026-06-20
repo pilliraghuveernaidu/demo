@@ -10,4 +10,3 @@ public class HelloWorld extends HttpServlet {
         response.getWriter().println("<h1>Hello, World from Java!</h1>");
     }
 }
-
